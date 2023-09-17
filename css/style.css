@@ -1,0 +1,59 @@
+h2{
+    margin-bottom: 1%;
+    margin-top:1%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-fair{
+    background-color: white;
+    color:black;
+}
+
+body{
+    background-color: black;
+    color:white;
+}
+
+.bg-dark {
+    color:white;
+    background-color: black;
+    border: 2px solid grey;
+    border-radius:5px;
+    font-family: 'Montserrat' , 'sans-serif';
+    font-style:bold;
+}
+
+button{
+    color:black;
+    background-color:white;
+    border: 2px solid grey;
+    border-radius:5px;
+    font-family: 'Montserrat' , 'sans-serif';
+    font-style:bold;
+}
+
+.largerSize{
+    font-size: xx-large;
+
+}
+
+.smallerSize{
+    font-size:smaller;
+}
+
+.subtitulo{
+    font-size:120%;
+}
+
+img{
+    width:3%;
+}
+
+p{
+    font-family: 'Montserrat' , 'sans-serif';
+    color:black;
+}
+
+.textoBlanco{
+    color:white;
+}
